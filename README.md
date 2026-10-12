@@ -49,12 +49,6 @@ streamlit run app.py
 ```
 
 Eğitilmiş model dosyaları (`svm_model_son.pkl`, `tfidf_vectorizer.pkl`) 
-
-Sentix-ai/
-├── app.py # Ana uygulama
-├── svm_model_son.pkl # Eğitilmiş SVM modeli
-├── tfidf_vectorizer.pkl # TF-IDF vektörizer
-├── dataset.txt # Ham veri seti
 ├── trendyol_test.py # Çapraz platform test scripti
 ├── veri_kurtar.py # Veri temizleme scripti
 └── .streamlit/
