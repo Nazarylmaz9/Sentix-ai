@@ -49,9 +49,7 @@ streamlit run app.py
 ```
 
 Eğitilmiş model dosyaları (`svm_model_son.pkl`, `tfidf_vectorizer.pkl`) 
-repoda mevcut olduğundan sıfırdan eğitime gerek yoktur.
 
-## 📁 Dosya Yapısı
 Sentix-ai/
 ├── app.py # Ana uygulama
 ├── svm_model_son.pkl # Eğitilmiş SVM modeli
