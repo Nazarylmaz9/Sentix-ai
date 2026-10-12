@@ -49,12 +49,6 @@ streamlit run app.py
 ```
 
 Eğitilmiş model dosyaları (`svm_model_son.pkl`, `tfidf_vectorizer.pkl`) 
-├── trendyol_test.py # Çapraz platform test scripti
-├── veri_kurtar.py # Veri temizleme scripti
-└── .streamlit/
-└── config.toml # Streamlit tema ayarları
-
-
 repoda mevcut olduğundan sıfırdan eğitime gerek yoktur.
 
 ## 📁 Dosya Yapısı
